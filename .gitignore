@@ -2,6 +2,5 @@
 #index.html
 logging.html
 .gitingnore
-!test.txt
-
 *.txt
+!test.txt 
