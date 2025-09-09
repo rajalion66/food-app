@@ -3,5 +3,5 @@
 logging.html
 .gitingnore
 !test.txt
-temp/
+
 *.txt
